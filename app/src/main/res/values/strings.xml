@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My MovieList</string>
+    <string name="sort">Sort By Rating</string>
+    <string name="add">ADD MOVIE</string>
+    <string name="title">Movie Title</string>
+    <string name="year">Year of release</string>
+    <string name="description">Description</string>
+    <string name="edit">UPDATE</string>
+    <string name="delete">DELETE</string>
+    <string name="back">BACK</string>
+</resources>
